@@ -1,0 +1,64 @@
+Sirens
+Sirens on passing emergency vehicles.
+A siren on a passing emergency vehicle will start out higher than its stationary pitch, slide down as it passes, and continue lower than its stationary pitch as it recedes from the observer. Astronomer John Dobson explained the effect thus:
+
+The reason the siren slides is because it doesn't hit you.
+
+In other words, if the siren approached the observer directly, the pitch would remain constant, at a higher than stationary pitch, until the vehicle hit him, and then immediately jump to a new lower pitch. Because the vehicle passes by the observer, the radial speed does not remain constant, but instead varies as a function of the angle between his line of sight and the siren's velocity:
+v
+radial
+=
+v
+s
+cos
+⁡
+(
+θ
+)
+{\displaystyle v_{\text{radial}}=v_{\text{s}}\cos(\theta )}where 
+θ
+{\displaystyle \theta } is the angle between the object's forward velocity and the line of sight from the object to the observer.
+
+Astronomy
+Main article: Relativistic Doppler effect
+
+Redshift of spectral lines in the optical spectrum of a supercluster of distant galaxies (right), as compared to that of the Sun (left)
+The Doppler effect for electromagnetic waves such as light is of widespread use in astronomy to measure the speed at which stars and galaxies are approaching or receding from us, resulting in so called blueshift or redshift, respectively. This may be used to detect if an apparently single star is, in reality, a close binary, to measure the rotational speed of stars and galaxies, or to detect exoplanets. This effect typically happens on a very small scale; there would not be a noticeable difference in visible light to the unaided eye.[10] The use of the Doppler effect in astronomy depends on knowledge of precise frequencies of discrete lines in the spectra of stars.
+
+Among the nearby stars, the largest radial velocities with respect to the Sun are +308 km/s (BD-15°4041, also known as LHS 52, 81.7 light-years away) and −260 km/s (Woolley 9722, also known as Wolf 1106 and LHS 64, 78.2 light-years away). Positive radial speed means the star is receding from the Sun, negative that it is approaching.
+
+The relationship between the expansion of the universe and the Doppler effect is not simple matter of the source moving away from the observer.[11][12] In cosmology, the redshift of expansion is considered separate from redshifts due to gravity or Doppler motion.[13]
+
+Distant galaxies also exhibit peculiar motion distinct from their cosmological recession speeds. If redshifts are used to determine distances in accordance with Hubble's law, then these peculiar motions give rise to redshift-space distortions.[14]
+
+Radar
+Main article: Doppler radar
+
+U.S. Military Police using a radar gun, an application of Doppler radar, to catch speeding violators.
+The Doppler effect is used in some types of radar, to measure the velocity of detected objects. A radar beam is fired at a moving target – e.g. a motor car, as police use radar to detect speeding motorists – as it approaches or recedes from the radar source. Each successive radar wave has to travel farther to reach the car, before being reflected and re-detected near the source. As each wave has to move farther, the gap between each wave increases, increasing the wavelength. In some situations, the radar beam is fired at the moving car as it approaches, in which case each successive wave travels a lesser distance, decreasing the wavelength. In either situation, calculations from the Doppler effect accurately determine the car's speed. Moreover, the proximity fuze, developed during World War II, relies upon Doppler radar to detonate explosives at the correct time, height, distance, etc.[citation needed]
+
+Because the Doppler shift affects the wave incident upon the target as well as the wave reflected back to the radar, the change in frequency observed by a radar due to a target moving at relative speed 
+Δ
+v
+{\displaystyle \Delta v} is twice that from the same target emitting a wave:[15]
+Δ
+f
+=
+2
+Δ
+v
+c
+f
+0
+.
+{\displaystyle \Delta f={\frac {2\Delta v}{c}}f_{0}.}
+
+Medical
+Main article: Doppler ultrasonography
+
+Colour flow ultrasonography (Doppler) of a carotid artery – scanner and screen
+An echocardiogram can, within certain limits, produce an accurate assessment of the direction of blood flow and the velocity of blood and cardiac tissue at any arbitrary point using the Doppler effect. One of the limitations is that the ultrasound beam should be as parallel to the blood flow as possible. Velocity measurements allow assessment of cardiac valve areas and function, abnormal communications between the left and right side of the heart, leaking of blood through the valves (valvular regurgitation), and calculation of the cardiac output. Contrast-enhanced ultrasound using gas-filled microbubble contrast media can be used to improve velocity or other flow-related medical measurements.[16][17]
+
+Although "Doppler" has become synonymous with "velocity measurement" in medical imaging, in many cases it is not the frequency shift (Doppler shift) of the received signal that is measured, but the phase shift (when the received signal arrives).[p 4]
+
+Velocity measurements of blood flow are also used in other fields of medical ultrasonography, such as obstetric ultrasonography and neurology. Velocity measurement of blood flow in arteries and veins based on Doppler effect is an effective tool for diagnosis of vascular problems like stenosis.

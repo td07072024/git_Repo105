@@ -1,0 +1,3 @@
+Assuming a stationary observer and a wave source moving towards the observer at (or exceeding) the speed of the wave, the Doppler equation predicts an infinite (or negative) frequency as from the observer's perspective. Thus, the Doppler equation is inapplicable for such cases. If the wave is a sound wave and the sound source is moving faster than the speed of sound, the resulting shock wave creates a sonic boom.
+
+Lord Rayleigh predicted the following effect in his classic book on sound: if the observer were moving from the (stationary) source at twice the speed of sound, a musical piece previously emitted by that source would be heard in correct tempo and pitch, but as if played backwards.
